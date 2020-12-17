@@ -1,5 +1,7 @@
 <h1 align="center">speech_recognition-</h1>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/aravind-ceg/)
+
 # Welcome to speech_recognition named praveena - my sister :innocent:
 
 div align= "center">
