@@ -10,10 +10,15 @@ div align= "center">
 ## What are the packages to be installed
 
 **speech_recognition**
+
 **pyttsx3**
+
 **datetime**
+
 **pyjokes**
+
 **wikipedia**
+
 **webbrowser**
 
 ## Package details 
